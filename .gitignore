@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Build and object artifacts
+build/
+*.o
+*.out
+
+# Assembly program output files
+first-file.txt
+second-file.txt
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editor and IDE
+.idea/
+.vscode/
+*.swp
+*~
